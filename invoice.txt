@@ -1,0 +1,13 @@
+Invoice
+Customer: Mazin Al Hamando
+
+Order Details:
+Smart Watch x 10 = $1799.91
+
+Subtotal: $1799.91
+Discount from bulk items: $199.99
+Tax (6%): $107.99
+Payment Method: Installments (no extra discount)
+Total to Pay: $1907.90
+----------------------------------------
+

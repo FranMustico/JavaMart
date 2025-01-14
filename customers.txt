@@ -1,0 +1,4 @@
+01,Francisco,Mustico,2024-12-16,1047.26
+02,Mazin,Al Hamando,2024-12-16,1907.90
+03,Flavia,Theodor,2024-12-16,1261.37
+04,TestCase,Number4,2024-12-16,18754.98

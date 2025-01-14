@@ -1,0 +1,5 @@
+Cellphone,1,Compact device for communication,999.99,cellphone.png
+Cellphone Case,2,Protective case for cellphone,39.99,case.png.jpg
+Headphones,3,Audio device for media playback,149.99,headphones.jpg
+Tablet,4,Portable touch-screen computer,599.99,tablet.png
+Smart Watch,5,Wearable device for fitness and notifications,199.99,smartwatch.png
