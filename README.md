@@ -32,7 +32,7 @@ The application focuses on creating a seamless user experience for both the stor
   - Generates detailed invoices summarizing purchases, discounts, tax, and payment details.
   - Saves invoices to `invoice.txt` for record-keeping.
 
-### 4. **Console Mode (Extra Credit)**
+### 4. **Console Mode **
 - A text-based interface replicating all features available in the GUI:
   - Customer and product management.
   - Cart operations.
